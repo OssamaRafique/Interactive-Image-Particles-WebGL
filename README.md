@@ -1,5 +1,6 @@
 # Interactive-Image-Particles
 A Simple Javascript library that use image data to create a small interactive particles network.
+
 Demo: https://www.ossamarafique.com/imageparticles.html
 # How to use
 ### Step 1
