@@ -1,7 +1,27 @@
-# Interactive-Image-Particles
-A Simple Javascript library that use image data to create a small interactive particles network.
 
-Demo: https://www.ossamarafique.com/imageparticles.html
+<h1 align="center">Interactive Image Particles Network</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+    <img alt="Version" src="https://img.shields.io/badge/build-passing-brightgreen" />
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://ko-fi.com/ossamarafique" target="_blank">
+    <img alt="Buy Me A Coffee" src="https://www.ko-fi.com/img/githubbutton_sm.svg" />
+  </a>
+  <a href="https://twitter.com/OssamaRafique" target="_blank">
+    <img alt="Twitter: OssamaRafique" src="https://img.shields.io/twitter/follow/OssamaRafique.svg?style=social" />
+  </a>
+</p>
+<p>
+	A Simple Javascript library that use image data to create a small interactive particles network.
+</p>
+<img alt="Interactive Image Particles Network" src="https://i.imgur.com/0QVz5WH.gif" />
+
+### 🏠 [Homepage](https://github.com/OssamaRafique/Interactive-Image-Particles/)
+
+### ✨ [Demo](https://www.ossamarafique.com/imageparticles.html)
+
 # How to use
 ### Step 1
 Create a canvas in your html document e.g
@@ -48,13 +68,18 @@ Initialize the process with:
  
 For More Details Please refer to index.html file.
 
-# Licence
+## Author
 
-### The MIT License (MIT)
-Copyright (c) 2018 - Ossama Rafique - https://www.ossamarafique.com
+👤 **Ossama Rafique**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+* Website: https://www.ossamarafique.com
+* Twitter: [@OssamaRafique](https://twitter.com/OssamaRafique)
+* Github: [@OssamaRafique](https://github.com/OssamaRafique)
+* LinkedIn: [@OssamaRafique](https://linkedin.com/in/OssamaRafique)
+* Buy me a Coffee: https://ko-fi.com/ossamarafique
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+## Show your support
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Give a ⭐️ if this project helped you!
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C71IRSG)
