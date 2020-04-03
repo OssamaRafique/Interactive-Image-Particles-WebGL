@@ -16,7 +16,7 @@
 <p>
 	A Simple Javascript library that use image data to create a small interactive particles network.
 </p>
-<img alt="Interactive Image Particles Network" src="https://i.imgur.com/0QVz5WH.gif" />
+<img alt="Interactive Image Particles Network" src="https://github.com/OssamaRafique/Interactive-Image-Particles/blob/master/demo.gif?raw=true" />
 
 ### 🏠 [Homepage](https://github.com/OssamaRafique/Interactive-Image-Particles/)
 
