@@ -20,7 +20,7 @@
 
 ### 🏠 [Homepage](https://github.com/OssamaRafique/Interactive-Image-Particles/)
 
-### ✨ [Demo](https://www.ossamarafique.com/imageparticles.html)
+### ✨ [Demo](https://projects.ossamarafique.com/imageparticles.html)
 
 # How to use
 ### Step 1
